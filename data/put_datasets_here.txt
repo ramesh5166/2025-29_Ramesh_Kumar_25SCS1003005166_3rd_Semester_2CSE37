@@ -1,0 +1,5 @@
+Download datasets from these links and put them in this folder.
+
+Dataset 1: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
+Dataset 2: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
